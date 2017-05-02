@@ -192,6 +192,8 @@
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\HandleInput.cs" />
     <Compile Include="Assets\Spin.cs" />
+    <Compile Include="Assets\move.cs" />
+    <Compile Include="Assets\movecamera.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
